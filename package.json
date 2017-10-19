@@ -1,0 +1,20 @@
+{
+  "name": "bip39-en",
+  "version": "1.0.0",
+  "description": "English wordlist from BIP39",
+  "main": "words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/node-bip39-en.git"
+  },
+  "author": "vpzomtrrfrt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpzomtrrfrt/node-bip39-en/issues"
+  },
+  "homepage": "https://github.com/vpzomtrrfrt/node-bip39-en#readme"
+}
